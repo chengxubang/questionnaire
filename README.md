@@ -38,7 +38,7 @@ jsp+servlet搭建在线投票问卷系统
 
 项目设计
 ----
-![设计流程图](/image/时序图/设计流程图/1.png)
+![设计流程图](https://raw.githubusercontent.com/chengxubang/questionnaire/main/image/%E6%97%B6%E5%BA%8F%E5%9B%BE/%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B%E5%9B%BE/1%20.png)
 
 ![设计流程图](/image/时序图/设计流程图/6.png)
 
